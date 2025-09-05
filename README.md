@@ -1,11 +1,36 @@
 # Hi, this is my secondary account!
 
-This is a side account for my college homeworks and for playing with stuff.
-<br/>
-For real projects visit my main account: <a href="https://github.com/DanteDeLordran"> DanteDeLordran </a>
+Mostly for fullstack dev and testing stuff
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dantelopezlugo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DanteDeLordran) 
+---
+
+<div align="center">
+    <h2>My Personal Stack</h2>
+    <table>
+        <tr>
+            <td align="center" width="140"><b>Frontend</b></td>
+            <td>
+			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width=60 />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width=60/>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140"><b>Backend</b></td>
+            <td>
+				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=60 />
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140"><b>Database</b></td>
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
+---
 
 ## 📊 GitHub Stats:
 [//]: ![](https://github-readme-streak-stats.herokuapp.com/?user=DanteDeLordran&theme=tokyonight&hide_border=false)<br/>
