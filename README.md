@@ -32,6 +32,6 @@ Mostly for fullstack dev and testing stuff
 
 ---
 
-## 📊 GitHub Stats:
-[//]: ![](https://github-readme-streak-stats.herokuapp.com/?user=DanteDeLordran&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DanteLopezL&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=donut-vertical)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteLopezL&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=donut-vertical" alt="Top Languages"/>
+</div>
