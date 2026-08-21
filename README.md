@@ -1,37 +1,7 @@
-# Hi, this is my secondary account!
+# Toy profile
 
-Mostly for fullstack dev and testing stuff
-
----
-
-<div align="center">
-    <h2>My Personal Stack</h2>
-    <table>
-        <tr>
-            <td align="center" width="140"><b>Frontend</b></td>
-            <td>
-			<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width=60 />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" width=60/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="140"><b>Backend</b></td>
-            <td>
-				<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=60 />
-            </td>
-        </tr>
-        <tr>
-            <td align="center" width="140"><b>Database</b></td>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="60"/>
-            </td>
-        </tr>
-    </table>
-</div>
+Toy profile
 
 ---
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanteLopezL&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=donut-vertical" alt="Top Languages"/>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DanteLopezL&layout=compact&langs_count=14&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=DanteLopezL&layout=compact&langs_count=14&theme=aura)
